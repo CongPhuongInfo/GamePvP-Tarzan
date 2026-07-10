@@ -1,5 +1,10 @@
 # Tarzan Rung Xanh - Co-op Online
 
+<p align="center">
+  <img src="GameTarzan-logo.png" width="800">
+</p>
+
+
 Chuyen the tu du an platformer "Phieu Luu Ong Nuoc" (PlatformGame.vb) sang chu de rung
 ram kieu Tarzan, giu nguyen kien truc mang Host-authoritative / Client chi gui INPUT qua
 NetworkPeer (TCP, pipe-delimited), 2 nguoi choi co-op vuot man.
